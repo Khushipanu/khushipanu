@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="banner.png" alt="hello, world. I'm Khushi, MERN stack developer" width="100%" />
+  <img src="hero-banner.png" alt="Hello, World! I'm Khushi, Software Developer" width="100%" />
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/khushi-panu-419157294/"><img src="https://img.shields.io/badge/LinkedIn-1A1630?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+  <a href="mailto:Khushipanu007@gmail.com"><img src="https://img.shields.io/badge/Gmail-1A1630?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
   <a href="https://www.instagram.com/_khushi.panu"><img src="https://img.shields.io/badge/Instagram-1A1630?style=for-the-badge&logo=instagram&logoColor=A78BFA" /></a>
   <img src="https://komarev.com/ghpvc/?username=Khushipanu&style=for-the-badge&color=7c3aed&labelColor=1A1630&label=PROFILE+VIEWS" />
 </p>
@@ -11,20 +13,11 @@
 
 ## 👩‍💻 About Me
 
-```js
-const khushi = {
-  role:      "MERN Stack Developer",
-  loves:     ["React", "Redux", "clean components"],
-  backend:   ["Node.js", "Express.js", "MongoDB", "REST APIs"],
-  currently: "building fast, simple apps that are actually useful",
-  openTo:    ["collabs", "freelance", "new opportunities"],
-};
-```
+I'm Khushi, a **software developer** who enjoys building clean, fast and useful web applications. I work mainly with the **MERN stack**: React and Redux on the frontend, and Node.js, Express and MongoDB on the backend.
 
-- ⚛️ I mostly live in **React**: Redux, custom hooks and reusable components
-- 🛠️ On the backend: **Node.js, Express & MongoDB**
-- 🌱 Always picking up something new and shipping it
-- 📫 Say hi on [Instagram](https://www.instagram.com/_khushi.panu)
+Alongside development, I regularly practice **Data Structures & Algorithms** to sharpen my problem-solving and write more efficient code. I like understanding how things work under the hood, picking up new tools, and turning ideas into real, working products.
+
+I'm always open to collaborations, freelance work and new opportunities, so feel free to reach out.
 
 <br />
 
