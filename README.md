@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="khushi-banner.png" alt="hello, world. I'm Khushi, MERN stack developer" width="100%" />
+  <img src="banner.png" alt="hello, world. I'm Khushi, MERN stack developer" width="100%" />
 </p>
 
 <p align="center">
