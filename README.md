@@ -1,11 +1,9 @@
-[README.md](https://github.com/user-attachments/files/34867176/README.md)
-![Uploading khushi-banner.png…]()
-<!-- 👇 DRAG khushi-banner.png ONTO THIS LINE (delete this line after the image appears) -->
+<p align="center">
+  <img src="khushi-banner.png" alt="hello, world. I'm Khushi, MERN stack developer" width="100%" />
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1A1630?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
   <a href="https://www.instagram.com/_khushi.panu"><img src="https://img.shields.io/badge/Instagram-1A1630?style=for-the-badge&logo=instagram&logoColor=A78BFA" /></a>
-  <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-1A1630?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
   <img src="https://komarev.com/ghpvc/?username=Khushipanu&style=for-the-badge&color=7c3aed&labelColor=1A1630&label=PROFILE+VIEWS" />
 </p>
 
@@ -26,7 +24,7 @@ const khushi = {
 - ⚛️ I mostly live in **React**: Redux, custom hooks and reusable components
 - 🛠️ On the backend: **Node.js, Express & MongoDB**
 - 🌱 Always picking up something new and shipping it
-- 📫 Say hi on [Instagram](https://www.instagram.com/_khushi.panu) or [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- 📫 Say hi on [Instagram](https://www.instagram.com/_khushi.panu)
 
 <br />
 
