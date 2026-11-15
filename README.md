@@ -1,21 +1,60 @@
-[README.md](https://github.com/user-attachments/files/34867109/README.md)
-<img width="1280" height="440" alt="hero" src="https://github.com/user-attachments/assets/da21cbcc-345c-48e7-8b0b-73be869b3806" />
-<img width="1280" height="140" alt="footer" src="https://github.com/user-attachments/assets/2a5c533c-0e25-4965-aed4-e363c9825625" />
-<img width="2560" height="1120" alt="about" src="https://github.com/user-attachments/assets/74d5597e-f57d-4a9a-96df-b1040316f0ac" />
-<p align="center">
-  <img src="hero.png" alt="hello, world. I'm Khushi, I build for the web" width="100%" />
-</p>
+[README.md](https://github.com/user-attachments/files/34867176/README.md)
+![Uploading khushi-banner.png…]()
+<!-- 👇 DRAG khushi-banner.png ONTO THIS LINE (delete this line after the image appears) -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-1A1630?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
   <a href="https://www.instagram.com/_khushi.panu"><img src="https://img.shields.io/badge/Instagram-1A1630?style=for-the-badge&logo=instagram&logoColor=A78BFA" /></a>
   <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-1A1630?style=for-the-badge&logo=gmail&logoColor=A78BFA" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Khushipanu&style=for-the-badge&color=7c3aed&labelColor=1A1630&label=PROFILE+VIEWS" />
+</p>
+
+<br />
+
+## 👩‍💻 About Me
+
+```js
+const khushi = {
+  role:      "MERN Stack Developer",
+  loves:     ["React", "Redux", "clean components"],
+  backend:   ["Node.js", "Express.js", "MongoDB", "REST APIs"],
+  currently: "building fast, simple apps that are actually useful",
+  openTo:    ["collabs", "freelance", "new opportunities"],
+};
+```
+
+- ⚛️ I mostly live in **React**: Redux, custom hooks and reusable components
+- 🛠️ On the backend: **Node.js, Express & MongoDB**
+- 🌱 Always picking up something new and shipping it
+- 📫 Say hi on [Instagram](https://www.instagram.com/_khushi.panu) or [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+
+<br />
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,mongodb,js,html,css&perline=8" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=tailwind,git,github,vscode,postman,vercel&perline=8" />
+</p>
+
+<br />
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khushipanu&theme=tokyonight" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khushipanu&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="about.png" alt="Hi, I'm Khushi, a MERN stack developer. Tech stack: React, Redux, Node.js, Express, MongoDB, JavaScript, HTML, CSS, Tailwind, Git, GitHub, VS Code" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=Khushipanu&hide_border=true&background=1A1B27&ring=A78BFA&fire=A78BFA&currStreakNum=F5F3FF&sideNums=F5F3FF&currStreakLabel=C4B5FD&sideLabels=9D93C4&dates=6D6394&stroke=2A2540" />
 </p>
 
+<br />
+
 <p align="center">
-  <img src="footer.png" alt="thanks for stopping by" width="100%" />
+  <code>git push origin main ♥ see you in the commits</code>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0a12,50:4c1d95,100:7c3aed&height=110&section=footer" width="100%" />
