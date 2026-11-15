@@ -44,8 +44,5 @@ I'm always open to collaborations, freelance work and new opportunities, so feel
 
 <br />
 
-<p align="center">
-  <code>git push origin main ♥ see you in the commits</code>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0a12,50:4c1d95,100:7c3aed&height=110&section=footer" width="100%" />
